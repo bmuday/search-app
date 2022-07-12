@@ -4,7 +4,7 @@
       <header className="d-flex justify-content-center py-3">
         <ul className="nav nav-pills">
           <li className="nav-item">
-            <router-link to="/frontend" active-class="active" class="nav-link"
+            <router-link to="/" active-class="active" class="nav-link"
               >Frontend</router-link
             >
           </li>
